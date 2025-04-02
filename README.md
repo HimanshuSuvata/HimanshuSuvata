@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshuSuvata
-- 👀 I’m interested in Software and Web development
-- 🌱 I’m currently learning C++, Web development
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning C++, Data Structure, and new tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
